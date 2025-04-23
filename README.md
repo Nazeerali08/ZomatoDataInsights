@@ -1,4 +1,4 @@
-Zomato-Data-Insights
+# Zomato-Data-Insights
 
 1. Overview of the Application:
 The application is a Food Delivery Management System built using Streamlit and a database like MySQL. It allows users to manage customers, restaurants, orders, delivery persons, deliveries, and generate fake data for testing.
